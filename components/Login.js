@@ -5,7 +5,7 @@ function Login() {
   return (
     <div className="grid place-items-center">
       <Image
-        src="https://links.papareact.com/t4i"
+        src="https://kohv.info/assets/fblogo-xl.png"
         height={400}
         width={400}
         objectFit="contain"
